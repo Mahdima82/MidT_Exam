@@ -1,0 +1,14 @@
+group 1:
+  - Wolf
+  - Wild boar
+  - Red squirrel
+  - Deer
+  - Blue whale
+
+group 2:
+  - Goats
+  - Camels
+  - Donkey
+  - Horse
+  - Pig
+

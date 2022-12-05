@@ -1,0 +1,18 @@
+group 1:
+  - Songbirds
+  - Northern cardinal
+  - Blue jay
+  - American robin
+  - Parrot
+
+group 2:
+  - Ostrich
+  - Emperor Penguin
+  - Steamer Duck
+  - Weka
+
+group 3:
+  - Eagles
+  - Ospreys
+  - True Hawks
+  - Kites
