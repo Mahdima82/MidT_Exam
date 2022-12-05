@@ -1,11 +1,9 @@
 group A:
   - Ostrich
-  - Emperor Penguin
+  - 
   - Steamer Duck
   - Weka
 
 group B: 
-  - Songbirds
   - Northern cardinal
   - Blue jay
-  - American robin
